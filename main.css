@@ -1,0 +1,19 @@
+nav {
+	background-size: cover;
+	background-repeat: no-repeat	;
+	width: 100%;
+	height: 100vh;
+	background-image: url(https://media.cnn.com/api/v1/images/stellar/prod/230621042149-01-cristiano-ronaldo-euro-200-apps-062023-restricted.jpg?c=original);
+}
+nav ul {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+}
+
+nav ul li {
+	color: white;
+	padding: 12px;
+	list-style: none;
+}
